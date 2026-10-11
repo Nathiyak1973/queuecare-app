@@ -1,0 +1,6 @@
+{
+  "name": "QueueCare – Patient Appointment and Queue Management System",
+  "description": "Less Wait · More Care. Intelligent doctor directory, two-colour slot booking, live queue tokens, and affordable healthcare management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
